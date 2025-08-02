@@ -1,0 +1,612 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c4ec87aa57bb067bb6b",
+    "_parentId": "688b3b74c87aa57bb067bb5a",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c56c87aa57bb067bb6c",
+    "_parentId": "688b3b93c87aa57bb067bb5d",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c5fc87aa57bb067bb6d",
+    "_parentId": "688b3bbbc87aa57bb067bb60",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c6fc87aa57bb067bb6e",
+    "_parentId": "688b3bd4c87aa57bb067bb63",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c76c87aa57bb067bb6f",
+    "_parentId": "688b3be5c87aa57bb067bb66",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "",
+    "_id": "688b3c7dc87aa57bb067bb70",
+    "_parentId": "688b3bf3c87aa57bb067bb69",
+    "_type": "component",
+    "_layout": "full"
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Organisaation historia, arvot ja missio",
+    "displayTitle": "Organisaation historia, arvot ja missio",
+    "body": "",
+    "_id": "688b41cac87aa57bb067bb72",
+    "_parentId": "688b3833c87aa57bb067bb4a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Tutustu organisaation historiaan, arvoihin ja missioon alta aukeavien painikkeiden kautta. ",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Historia",
+        "body": "<p><strong>Luotipuu Oy sai alkunsa vuonna 2011</strong>, kun kolme kestävän kehityksen ja digitaalisten ratkaisujen asiantuntijaa kohtasivat yhteisen ajatuksen äärellä: suomalaisissa organisaatioissa tarvitaan konkreettisia työkaluja, jotka tukevat ekologista vastuullisuutta ja tiedolla johtamista.<br>&nbsp;</p><p>Yrityksen ensimmäiset askeleet otettiin kotitoimistoista käsin, ja varhaiset asiakkaat löytyivät kuntasektorilta ja ympäristöjärjestöistä. Vuosien varrella Luotipuu on kasvanut monialaiseksi asiantuntijayritykseksi, joka yhdistää ympäristöteknologiaa, datalähtöistä suunnittelua ja vaikuttavaa viestintää. Toimimme valtakunnallisesti – mutta juuremme ovat edelleen Jyväskylässä ja suomalaisessa luonnossa.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Arvot",
+        "body": "<p>Luotipuun toimintaa ohjaa kolme arvoa, jotka näkyvät jokapäiväisessä työssämme:</p><p><br><strong>Luottamus</strong><br><br>Toimimme avoimesti ja pidämme lupauksemme – niin asiakkaille kuin toisillemme.</p><p><br><strong>Kestävyys</strong><br><br>Kaikki mitä teemme, tähtää ekologisesti, sosiaalisesti ja taloudellisesti kestävään lopputulokseen.</p><p><br><strong>Oppiminen ja jakaminen</strong><br><br>Uskomme tiedon avoimuuteen, jatkuvaan kehittymiseen ja siihen, että paras tulos syntyy yhdessä oppien.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "MIssio",
+        "body": "<p><strong>Luotipuu tekee kestävämmän arjen mahdolliseksi teknologian ja tiedon avulla.</strong><br><br>Missiomme on auttaa asiakkaitamme toimimaan viisaammin – luontoa ja resursseja kunnioittaen. Haluamme rakentaa ratkaisuja, jotka tekevät kestävyydestä konkreettista, käytännöllistä ja mitattavaa.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Mitkä ovat Luotipuun kolme keskeistä arvoa?",
+    "displayTitle": "Mitkä ovat Luotipuun kolme keskeistä arvoa?",
+    "body": "",
+    "_id": "688b4479c87aa57bb067bb74",
+    "_parentId": "688b446cc87aa57bb067bb73",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Valitse yksi oikea vaihtoehto ja klikkaa sen jälkeen palauta. ",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Nopeus, tehokkuus ja kasvu",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Luottamus, kestävyys ja oppiminen",
+        "altText": "",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Valvonta, kilpailu ja innovaatio",
+        "altText": "",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowCorrectness": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Palauta",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Yritä uudelleen",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Organisaation toiminta-ajatus ja strategia",
+    "displayTitle": "Organisaation toiminta-ajatus ja strategia",
+    "body": "",
+    "_id": "688b57d0c87aa57bb067bb78",
+    "_parentId": "688b57b2c87aa57bb067bb77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Tutustu organisaation toiminta-ajatukseen ja strategiaan",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Toiminta-ajatus",
+        "body": "<p>Luotipuu Oy tarjoaa digitaalisia ja asiantuntijapohjaisia ratkaisuja, jotka tukevat ympäristönsuojelua, resurssiviisautta ja kestävää arkea. Yhdistämme teknologian, tiedon ja ympäristöosaamisen asiakkaidemme hyväksi – niin että vastuullinen toiminta on helpompaa, tehokkaampaa ja vaikuttavampaa.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Strategia",
+        "body": "<p>Luotipuun strategia nojaa kolmeen toisiaan tukevaan painopisteeseen:</p><h3>&nbsp;</h3><h3><strong>Vaikuttavuus</strong></h3><p>&nbsp;</p><p>Kaikki palvelumme tähtäävät todelliseen hyötyyn ympäristölle, asiakkaille ja yhteiskunnalle. Mittaamme ja arvioimme työn vaikuttavuutta – ei pelkästään numeroina, vaan myös käytännön&nbsp;</p><p>vaikutuksina.</p><h3><strong>Yhteistyö ja asiakaskeskeisyys</strong></h3><p>&nbsp;</p><p>Toimimme kumppaneina, emme vain palveluntarjoajina. Kuuntelemme asiakkaidemme tarpeita, kehitämme ratkaisut yhdessä ja sitoudumme pitkäjänteiseen yhteistyöhön. Uskomme vuoropuheluun ja yhteiskehittämiseen.</p><h3>&nbsp;</h3><h3><strong>Jatkuva oppiminen ja kehitys</strong></h3><p>&nbsp;</p><p>Maailma muuttuu – ja me sen mukana. Kehitämme omaa osaamistamme, palveluitamme ja teknologioita jatkuvasti, jotta pysymme ajan hermolla ja pystymme vastaamaan tulevaisuuden kestävyyshaasteisiin.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Organisaation rakenne ja avainhenkilöt",
+    "displayTitle": "Organisaation rakenne ja avainhenkilöt",
+    "body": "",
+    "_id": "688ba3a4c87aa57bb067bb7b",
+    "_parentId": "688ba36dc87aa57bb067bb7a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Tutustu alta löytyvien painikkeiden kautta organisaation rakenteeseen ja avainhenkilöihin",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Organisaation rakenne",
+        "body": "<p>Luotipuu Oy toimii tiimipohjaisessa organisaatiossa, jossa korostuvat matala hierarkia, itseohjautuvuus ja avoin viestintä. Meillä jokaisella on vastuita, mutta päätöksenteko ja kehittäminen tapahtuvat yhdessä – tiimeissä ja projektiryhmissä.</p><p>Organisaation ydinrakenteen muodostavat seuraavat tiimit:<br>&nbsp;</p><ul><li><p><strong>Toimitusjohtaja</strong> – johtaa kokonaisuutta ja vastaa strategiasta, taloudesta ja kulttuurista</p><p>&nbsp;</p></li><li><p><strong>Ympäristöasiantuntijat</strong> – vastaavat kestävyyteen liittyvästä konsultoinnista, tutkimuksesta ja asiakastyöstä</p><p>&nbsp;</p></li><li><p><strong>ICT- ja teknologiatiimi</strong> – kehittää digitaalisia ratkaisuja, kuten mittausalustoja, verkkopalveluita ja integraatioita</p><p>&nbsp;</p></li><li><p><strong>Sisällöntuotanto ja koulutus</strong> – suunnittelee koulutusmateriaaleja, kampanjoita ja asiakasviestintää</p><p>&nbsp;</p></li><li><p><strong>Myynti ja asiakaspalvelu</strong> – ylläpitää asiakassuhteita, tunnistaa tarpeita ja varmistaa palvelun sujuvuuden</p><p>&nbsp;</p></li><li><strong>Talous- ja hallintotiimi</strong> – huolehtii resursseista, sopimuksista, henkilöstöhallinnosta ja taloudesta</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Avainhenkilöt",
+        "body": "<p>Avainhenkilöitä ovat mm. toimitusjohtaja, tiimivetäjät ja projektipäälliköt. Jokaisella uudella työntekijällä on myös nimetty yhteyshenkilö tai mentori, joka tukee arkeen pääsemisessä.</p>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Organisaatiokulttuuri ja työtavat",
+    "displayTitle": "Organisaatiokulttuuri ja työtavat",
+    "body": "",
+    "_id": "688d080a2f9e3f208888c239",
+    "_parentId": "688d080a2f9e3f208888c238",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Tutustu alta löytyvien painikkeiden kautta organisaatiokulttuuriin ja työtapoihin",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Organisaatiokulttuuri",
+        "body": "<p>Luotipuussa uskomme, että kulttuuri ei ole irrallinen julistus, vaan tapa, jolla kohtaamme toisemme, asiakkaat ja työmme joka päivä. Meidän kulttuurimme perustuu <strong>luottamukseen, merkityksellisyyteen ja yhteiseen suuntaan</strong>.</p><h3>Kulttuuriamme kuvaavat:<br>&nbsp;</h3><ul><li><strong>Avoimuus</strong><br><br>Kaikki oleellinen tieto on saatavilla ja päätöksenteko on läpinäkyvää. Kysymykset ja palautteet ovat tervetulleita – riippumatta roolista tai asemasta.<br>&nbsp;</li><li><strong>Inhimillisyys</strong><br><br>Me arvostamme ihmistä työn takana. Meille tärkeitä ovat työn ja vapaa-ajan tasapaino, kuunteleminen ja aito kohtaaminen.<br>&nbsp;</li><li><p><strong>Oppiminen</strong><br><br>Kukaan ei ole koskaan valmis – ja hyvä niin. Meillä on lupa kysyä, ehdottaa, kokeilla ja epäonnistua. Kasvu on osa arkea.</p><p>&nbsp;</p></li><li><strong>Yhteisöllisyys</strong><br><br>Vaikka toimimme hybridisti, rakennamme yhteyttä aktiivisesti. Meillä on yhteisiä tiimipäiviä, kahvihetkiä ja tapahtumia, jotka vahvistavat tunnetta kuulumisesta joukkoon.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Työtavat",
+        "body": "<p>Luotipuun työtavat tukevat sekä yksilön vapautta että tiimien toimivuutta. Työskentelemme hybridiympäristössä, jossa luottamus on lähtökohta ja tavoitteet ohjaavat tekemistä.<br>&nbsp;</p><h3>Näin me työskentelemme:<br>&nbsp;</h3><ul><li><strong>Joustavasti ja vastuullisesti</strong><br><br>Työaikamme ovat joustavat – tärkeintä on, että asiat etenevät sovitusti ja yhteistyö toimii. Itseohjautuvuus tarkoittaa vastuuta ja vapautta rinnakkain.<br>&nbsp;</li><li><strong>Tiimeissä ja projekteissa</strong><br><br>Työ jakaantuu projektien ja tiimien kautta. Projekteilla on vetäjät, selkeät tavoitteet ja yhteinen suunnitelma. Jokainen tietää, mitä on tekemässä ja miksi.<br>&nbsp;</li><li><strong>Selkein välinein</strong><br><br>Käytämme mm. Teamsia, sähköpostia ja Luotila-intraa päivittäiseen viestintään ja tiedonjakoon. Projektinhallintaa tuetaan työkalulla kuten Trello tai Asana (valitaan projektin mukaan).<br>&nbsp;</li><li><strong>Tavoitteellisesti mutta rennosti</strong><br><br>Meillä on selkeät tavoitteet, mutta työilmapiiri pysyy rauhallisena ja kannustavana. Paine ei ole itseisarvo – aikaansaaminen on.</li></ul>",
+        "_titleIcon": "",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false,
+    "_isCenterAligned": false
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "HR-johtajan tervehdys",
+    "displayTitle": "HR-johtajan tervehdys",
+    "body": "",
+    "_id": "688d0a662f9e3f208888c23a",
+    "_parentId": "688b3b53c87aa57bb067bb57",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Katso HR-johtaja Kaisa Puun terveiset alla olevasta videosta",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=Zt_7L1eey2w",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Työtehtävien kuvaus ja vastuut",
+    "displayTitle": "Työtehtävien kuvaus ja vastuut",
+    "body": "<p>Luotipuussa jokaisella työntekijällä on oma roolinsa ja selkeät vastuut, mutta työ on usein tiimipohjaista ja monialaista. Työtehtävät voivat vaihdella projektien ja asiakkuuksien mukaan, ja rooleja kehitetään osaamisen ja kiinnostuksen mukaan.</p><p>Uuden työntekijän tehtävät määritellään perehdytysvaiheessa yhteistyössä tiimivetäjän ja mahdollisen mentorin kanssa. Tärkeää on ymmärtää oman roolin rajat – ja se, miten oma työ liittyy isompaan kokonaisuuteen.</p>",
+    "_id": "688d0d112f9e3f208888c240",
+    "_parentId": "688d0c062f9e3f208888c23d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Tavoitteet ja odotukset",
+    "displayTitle": "Tavoitteet ja odotukset",
+    "body": "<p>Luotipuussa tavoitteet asetetaan yhdessä: sekä henkilökohtaiset, tiimikohtaiset että projektikohtaiset tavoitteet. Ne voivat liittyä esimerkiksi asiakastyöhön, kehittämiseen, viestintään tai aikataulujen hallintaan.</p><p><br>Sinulta odotetaan:<br>&nbsp;</p><ul><li>aktiivisuutta ja vastuunottoa omasta työstäsi</li><li>yhteistyökykyä ja avoimuutta tiimissä</li><li>halua oppia, kehittyä ja tuoda esiin uusia ideoita</li><li>sitoutumista Luotipuun arvoihin ja yhteisiin toimintatapoihin</li></ul>",
+    "_id": "688d0db52f9e3f208888c246",
+    "_parentId": "688d0d9a2f9e3f208888c245",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Päivittäiset työprosessit ja työkalut ",
+    "displayTitle": "Päivittäiset työprosessit ja työkalut ",
+    "body": "<p>Arkipäivä Luotipuussa voi koostua esim. asiakastapaamisista, projektipalavereista, suunnittelutyöstä tai sisäisestä kehittämisestä. Työ tehdään usein hajautetusti, mutta säännöllinen viestintä ja koordinaatio varmistavat sujuvuuden.</p>",
+    "_id": "688d0ea82f9e3f208888c248",
+    "_parentId": "688d0e942f9e3f208888c247",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  }
+]
